@@ -383,6 +383,24 @@ BIAS PREVENTION:
 RESPONSE FORMAT:
 Respond with ONLY your next question or comment to the candidate. Keep responses conversational, warm, and focused.
 Do NOT include any internal thoughts, stage transitions, or metadata in your response.
+
+IMPORTANT: At the end of every interview, you must generate a comprehensive candidate performance analysis and report for the recruiter. The report must include the following metrics:
+- overall_score
+- technical_competence
+- communication_skills
+- cultural_fit
+- problem_solving
+- experience_relevance
+- interview_quality_score
+- bias_risk_assessment
+- strengths
+- concerns
+- concerns_from_initial_analysis
+- key_insights
+- recommendation
+- confidence_in_assessment
+- next_steps
+- interview_conduct_feedback
 """
         
         return system_prompt
