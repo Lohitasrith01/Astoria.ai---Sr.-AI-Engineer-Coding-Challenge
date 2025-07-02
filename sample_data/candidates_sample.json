@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Alice Smith",
+    "years_experience": 5,
+    "visa_status": "US Citizen",
+    "resume_text": "Experienced software engineer specialized in NLP, Python, and large language models. Led projects using GPT-3.5, vector databases, and MLOps on AWS.",
+    "github_handle": "torvalds",
+    "linkedin_url": "https://linkedin.com/in/alicesmith"
+  },
+  {
+    "name": "Bob Johnson",
+    "years_experience": 3,
+    "visa_status": "H-1B",
+    "resume_text": "Data scientist focusing on computer vision and transformer architectures. Developed end-to-end pipelines and deployed models with Docker and FastAPI.",
+    "github_handle": null,
+    "linkedin_url": "https://linkedin.com/in/bobjohnson"
+  }
+] 
