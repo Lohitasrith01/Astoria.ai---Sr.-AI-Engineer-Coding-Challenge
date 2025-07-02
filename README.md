@@ -123,17 +123,6 @@ This PoC is architected as a multi-agent system for next-generation recruitment.
 - Ready for integration with additional HR tools or ATS systems.
 - Modular design for rapid feature development.
 
----
-
-## 🏁 How to Run
-
-1. **Backend:**  
-   - `pip install -r requirements.txt`
-   - `python -m video_interview_backend.main`
-2. **Frontend:**  
-   - `cd recruiter-dashboard` / `cd candidate-dashboard`
-   - `npm install && npm start`
-3. **Configure environment variables** for Redis, S3, Gmail, Calendly, and Gemini as needed.
 
 ---
 
