@@ -1,10 +1,12 @@
-# AI-Powered Video Interview Platform
+# Multi-Agent System for Interview (Video)
 
 ## 🚀 Overview
 
-This project is a proof-of-concept (POC) for a next-generation, AI-powered video interview platform. It features a personalized AI Interview Agent that conducts dynamic, intelligent interviews tailored to each candidate's background and the company's hiring needs. The system is designed for efficiency, fairness, and transparency, with robust human-in-the-loop controls and hallucination mitigation.
+This PoC is architected as a multi-agent system for next-generation recruitment. Specialized agents—ranging from semantic ATS filtering and skill transfer analysis to real-time video, voice, and scheduling—collaborate to deliver a seamless, intelligent, and human-centered hiring experience.
 
 ---
+![image](https://github.com/user-attachments/assets/2b811315-b018-4794-98b8-69f235d53741)
+
 
 ## 🏗️ System Architecture
 
