@@ -141,16 +141,3 @@ This system demonstrates a scalable, human-centered approach to AI-powered inter
 
 ---
 
-## 📽️ Demo
-
-- [Include a link to your demo video here]
-
----
-
-## 📦 Codebase
-
-- [GitHub repo link]
-
----
-
-**For any questions or feedback, please contact [your email/contact info].** 
